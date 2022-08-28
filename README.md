@@ -1,2 +1,2 @@
 
-<span> this projects are made by react js and next js <.\n/span>
+<span> this projects are made by react js and next js <span/>
